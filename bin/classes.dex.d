@@ -1,0 +1,25 @@
+C:\CorsoWebService\ContractFirst\SmsCert\bin\classes.dex : \
+C:\CorsoWebService\ContractFirst\SmsCert\bin\classes\it\livorno\comune\smscert\BuildConfig.class \
+C:\CorsoWebService\ContractFirst\SmsCert\bin\classes\it\livorno\comune\smscert\ListaUsi$1.class \
+C:\CorsoWebService\ContractFirst\SmsCert\bin\classes\it\livorno\comune\smscert\ListaUsi$2.class \
+C:\CorsoWebService\ContractFirst\SmsCert\bin\classes\it\livorno\comune\smscert\ListaUsi$3.class \
+C:\CorsoWebService\ContractFirst\SmsCert\bin\classes\it\livorno\comune\smscert\ListaUsi.class \
+C:\CorsoWebService\ContractFirst\SmsCert\bin\classes\it\livorno\comune\smscert\MainActivity$1.class \
+C:\CorsoWebService\ContractFirst\SmsCert\bin\classes\it\livorno\comune\smscert\MainActivity$2.class \
+C:\CorsoWebService\ContractFirst\SmsCert\bin\classes\it\livorno\comune\smscert\MainActivity$3.class \
+C:\CorsoWebService\ContractFirst\SmsCert\bin\classes\it\livorno\comune\smscert\MainActivity.class \
+C:\CorsoWebService\ContractFirst\SmsCert\bin\classes\it\livorno\comune\smscert\R$attr.class \
+C:\CorsoWebService\ContractFirst\SmsCert\bin\classes\it\livorno\comune\smscert\R$drawable.class \
+C:\CorsoWebService\ContractFirst\SmsCert\bin\classes\it\livorno\comune\smscert\R$id.class \
+C:\CorsoWebService\ContractFirst\SmsCert\bin\classes\it\livorno\comune\smscert\R$layout.class \
+C:\CorsoWebService\ContractFirst\SmsCert\bin\classes\it\livorno\comune\smscert\R$string.class \
+C:\CorsoWebService\ContractFirst\SmsCert\bin\classes\it\livorno\comune\smscert\R$style.class \
+C:\CorsoWebService\ContractFirst\SmsCert\bin\classes\it\livorno\comune\smscert\R.class \
+C:\CorsoWebService\ContractFirst\SmsCert\bin\classes\it\livorno\comune\smscert\SMS$1.class \
+C:\CorsoWebService\ContractFirst\SmsCert\bin\classes\it\livorno\comune\smscert\SMS$2.class \
+C:\CorsoWebService\ContractFirst\SmsCert\bin\classes\it\livorno\comune\smscert\SMS$3.class \
+C:\CorsoWebService\ContractFirst\SmsCert\bin\classes\it\livorno\comune\smscert\SMS.class \
+C:\CorsoWebService\ContractFirst\SmsCert\bin\classes\it\livorno\comune\smscert\Usocert.class \
+C:\CorsoWebService\ContractFirst\SmsCert\bin\classes\it\livorno\comune\smscert\UsocertDbAdapter$DatabaseHelper.class \
+C:\CorsoWebService\ContractFirst\SmsCert\bin\classes\it\livorno\comune\smscert\UsocertDbAdapter.class \
+C:\CorsoWebService\ContractFirst\SmsCert\bin\classes\it\livorno\comune\smscert\WIFIInternetConnectionDetector.class \

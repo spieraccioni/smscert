@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<style name="Theme.SmsCert" parent="android:Theme.Holo.Light">
+    <item name="android:textAppearance">@style/CustomText</item>
+</style>
+</resources>
+

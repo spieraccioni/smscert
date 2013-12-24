@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+              android:padding="6dip" >
+    <ImageView
+        android:id="@+id/stemma1"
+        android:layout_width="100dp"
+        android:layout_height="76dp"
+        android:src="@drawable/stemma2"
+ />
+    <TextView android:text="Prenota il certificato via SMS" 
+              android:layout_width="fill_parent" 
+              android:layout_height="wrap_content">
+    </TextView>
+ 
+    <EditText android:id="@+id/cf"
+              android:hint="Inserisci il tuo codice fiscale"
+              android:maxLength="16"
+              android:lines="1" 
+              android:textColor="#C0C0C0"
+              android:layout_height="wrap_content"
+              android:layout_width="fill_parent">
+    </EditText>
+    <EditText android:id="@+id/txtEmail"
+              android:hint="Inserisci la tua e-mail"
+              android:lines="1" 
+              android:textColor="#C0C0C0"
+              android:layout_height="wrap_content"
+              android:layout_width="fill_parent">
+    </EditText>
+    <TextView android:text="Scegli il certificato"  
+              android:layout_width="fill_parent" 
+              android:layout_height="wrap_content">
+    </TextView>
+    <RadioGroup
+        android:id="@+id/radioTipoCert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="83dp"
+        android:layout_y="86dp">
+        <RadioButton
+            android:id="@+id/radioRes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/radioRes" 
+            android:checked="true" />
+ 
+        <RadioButton
+            android:id="@+id/radioFam"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/radioFam" />
+    </RadioGroup>
+    <TextView android:id="@+id/cu"
+              android:text="Scegli l'uso"  
+              android:layout_width="fill_parent" 
+              android:layout_height="wrap_content">
+    </TextView>
+    <EditText android:id="@+id/selectedUso"
+              android:hint="Posizionati qui per inserire l'uso"
+              android:lines="2" 
+              android:layout_height="wrap_content"
+              android:layout_width="fill_parent">
+    </EditText>
+     <TextView android:id="@+id/curesult"
+              android:layout_width="fill_parent" 
+              android:layout_height="wrap_content"
+              android:visibility="gone">
+    </TextView>
+
+    <Button android:text="Invia SMS" 
+            android:id="@+id/btnSendSMS" 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+    </Button >
+</LinearLayout>
+

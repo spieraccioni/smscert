@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:17
+-keep class it.livorno.comune.smscert.ListaUsi { <init>(...); }
+
+# view AndroidManifest.xml #generated:10
+-keep class it.livorno.comune.smscert.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:18
+-keep class it.livorno.comune.smscert.SMS { <init>(...); }
+

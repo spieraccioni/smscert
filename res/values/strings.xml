@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LivornoSMSCert</string>
+    <string name="uso">Uso del certificato</string>
+    <string name="radioRes">Residenza</string>
+    <string name="radioFam">Stato di famiglia</string>
+    <string name="some_text">
+     testo
+ </string>
+ <string name="some_hint">
+  Scrivi qui per cercare&#8230;
+ </string>
+</resources>

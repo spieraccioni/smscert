@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<style name="CustomText">
+    <item name="android:textColor">#000080</item>
+</style>
+</resources>
